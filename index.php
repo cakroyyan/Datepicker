@@ -4,9 +4,9 @@
 <head>
     <title>Menampilkan Datepicker di Modal Bootstrap</title>
     <link rel="stylesheet" href="css/bootstrap.css">
-    <script src="js/bootstrap.js"></script>
-    <script src="js/jquery.js"></script>
-    <script src="js/bootstrap-datepicker.js"></script>
+    <script src="./js/bootstrap.js"></script>
+    <script src="./js/jquery.js"></script>
+    <script src="./js/bootstrap-datepicker.js"></script>
     <style>
         .datepicker {
             z-index: 1151;

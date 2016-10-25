@@ -1,3 +1,3 @@
 # DatePicter
 
-Demo (https://rawgit.com/cakroyyan/Datepicker/master/index.php)
+[Demo](https://rawgit.com/cakroyyan/Datepicker/master/index.php)
